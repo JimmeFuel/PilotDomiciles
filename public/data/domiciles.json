@@ -1,0 +1,26 @@
+[
+  {
+    "iata": "DFW",
+    "name": "Dallas/Fort Worth International Airport",
+    "city": "Dallas",
+    "state": "TX",
+    "lat": 32.8968,
+    "lon": -97.0380,
+    "airlines": [
+      { "name": "American Airlines", "category": "legacy" },
+      { "name": "Envoy Air", "category": "regional" }
+    ]
+  },
+  {
+    "iata": "ORD",
+    "name": "Chicago O'Hare International Airport",
+    "city": "Chicago",
+    "state": "IL",
+    "lat": 41.9786,
+    "lon": -87.9048,
+    "airlines": [
+      { "name": "United Airlines", "category": "legacy" },
+      { "name": "American Airlines", "category": "legacy" }
+    ]
+  }
+]
